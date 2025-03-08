@@ -74,12 +74,6 @@ Misalnya:
 vendor/bin/phpunit --filter UserTest
 ```
 
-### **3. Menjalankan Pengujian dengan Coverage**
-Untuk melihat cakupan kode yang diuji:
-```sh
-XDEBUG_MODE=coverage vendor/bin/phpunit --coverage-text
-```
-
 ## 📌 Dokumentasi API dengan Swagger
 1. Jalankan perintah berikut untuk membuat dokumentasi:
    ```sh
