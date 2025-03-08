@@ -86,5 +86,6 @@ XDEBUG_MODE=coverage vendor/bin/phpunit --coverage-text
    php artisan l5-swagger:generate
    ```
 2. Buka dokumentasi Swagger di:
-   ```http://127.0.0.1:8000/api/documentation
+   ```sh
+   http://127.0.0.1:8000/api/documentation
    ```
